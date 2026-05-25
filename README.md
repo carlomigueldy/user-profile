@@ -4,6 +4,12 @@ A distinctive, editorial-style public profile page — a digital calling card wi
 
 **Demo**: [user-profile-lake.vercel.app](https://user-profile-lake.vercel.app)
 
+## Preview
+
+| Desktop | Mobile |
+|---|---|
+| ![Desktop full-page screenshot](demo/desktop-full.png) | ![Mobile full-page screenshot](demo/mobile-full.png) |
+
 ---
 
 ## Design
